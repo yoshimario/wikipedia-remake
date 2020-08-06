@@ -10,13 +10,51 @@
 .headercard {
   background-color: rgb(224, 224, 233);
   position: relative;
+  left: -100px;
   top: -790px;
 }
 
-
 .leftnavbarlinks {
   list-style-type: none;
+  font-weight: 600;
   position: relative;
   padding-top: 180px;
 }
 
+.navbarborder {
+  border: solid rgb(88, 148, 204);
+  border-radius: 3px;
+  background-color: rgb(225, 225, 231);
+  position: relative;
+  margin-left: 10px;
+  margin-top: 10px;
+  margin-right: 1680px;
+}
+
+.headlist {
+  position: relative;
+  left: 850px;
+  top: -120px;
+}
+
+.card-green {
+  margin: 600px;
+  position: relative;
+  top: -1370px;
+  left: -300px;
+  border: solid rgb(44, 124, 80);
+  border-radius: 3px;
+  padding: 5px;
+  background-color: rgb(195, 223, 195);
+}
+
+.card-blue {
+  margin: 600px;
+  position: relative;
+  top: -2555px;
+  left: 420px;
+  border: solid rgb(31, 92, 133);
+  border-radius: 3px;
+  padding: 5px;
+  background-color: rgb(192, 213, 243);
+}
