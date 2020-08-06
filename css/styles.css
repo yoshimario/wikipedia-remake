@@ -1,0 +1,13 @@
+#link {
+  color: blue;
+}
+
+.headercard {
+  background-color: rgb(222, 232, 236);
+  margin-top: 10px;
+}
+
+.logo {
+  float: left;
+  margin-left: 30px;
+}
